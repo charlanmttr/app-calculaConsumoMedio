@@ -8,5 +8,4 @@ Aplicativo desenvolvido como trabalho para a disciplina de Tópicos Especiais em
 - D: Até 8km/l 🟧 
 - E: Até 4km/l 🟥
 
-Demonstraçâo: 
 ![Calculadora de Consumo Demo](src/img/demo.gif)
