@@ -5,32 +5,27 @@ const niveisConsumo = [
     {
         nivel: 'A',
         descricao: 'mais de 12km/l',
-        color: '#006400',
-        average: ''
+        color: '#006400'
     },
     {
         nivel: 'B',
         descricao: 'até 12km/l',
-        color: '#9ACD32',
-        average: ''
+        color: '#9ACD32'
     },
     {
         nivel: 'C',
         descricao: 'até 10km/l',
-        color: 'yellow',
-        average: ''
+        color: 'yellow'
     },
     {
         nivel: 'D',
         descricao: 'até 8km/l',
-        color: 'orange',
-        average: ''
+        color: 'orange'
     },
     {
         nivel: 'E',
         descricao: 'até 4km/l',
-        color: 'red',
-        average: ''
+        color: 'red'
     },
 ]
 
