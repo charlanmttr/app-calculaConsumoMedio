@@ -1,4 +1,4 @@
-# Aplicativo TwoFootball
+# Calculadora de Consumo Médio
 
 Aplicativo desenvolvido como trabalho para a disciplina de Tópicos Especiais em Computação. Desenvolvido em React Native utilizando o Expo, tem o objetivo de calcular o consumo médio de um automóvel, recebendo a distância percorrida e a gasolina gasta, e por fim mostrar a qual nível de consumo ele se encaixa:
     
